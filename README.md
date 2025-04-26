@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Miladssss/Miladssss/blob/main/metaverse-virtual-reality-futuristic-web3-internet-avatar-augmented-reality-technology-virtual-worlds_1029476-134497.jpg?raw=true" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">Hey, I'm Omid 👋</h1>
 
 <p align="center">
@@ -29,3 +33,4 @@
 - On-chain identity, decentralized social platforms, and Web3 communities
 
 _"Staying early, staying sharp."_
+
