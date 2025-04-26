@@ -22,9 +22,10 @@
 
 ---
 
-### 🚀 Currently exploring
-- Eigenlayer restaking ecosystem
-- DePIN/NFT infra projects
-- On-chain identity & decentralized social
+🚀 Currently exploring
+- Restaking ecosystems and liquid staking protocols
+- DePIN infrastructure projects and node operations
+- Early-stage gaming projects with high airdrop potential
+- On-chain identity, decentralized social platforms, and Web3 communities
 
-> “Staying early, staying sharp.”
+_"Staying early, staying sharp."_
