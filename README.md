@@ -34,3 +34,4 @@
 
 _"Staying early, staying sharp."_
 
+This project is awesome. 🚀"
